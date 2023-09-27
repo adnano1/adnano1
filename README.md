@@ -44,7 +44,6 @@ Here are some ideas to get you started:
   ### Libraries & Framework :
   
   <a href="#"><img alt="TensorFLow" src ="https://avatars.githubusercontent.com/u/15658638?s=280&v=4" height="35" width="100"></a>
-  <a href="#"><img alt="Pytorch" src ="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_169823.png" height="35" width="100"></a>
   <a href="#"><img alt="Matplotlib" src ="https://image.pngaaa.com/242/4152242-middle.png" height="35" width="100"></a>
   <a href="#"><img alt="Seaborn" src ="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" height="35" width="100"></a>
   <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" height="35" width="100"></a>

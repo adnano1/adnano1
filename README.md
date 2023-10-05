@@ -19,6 +19,7 @@ Here are some ideas to get you started:
       <span style="display: inline-block; animation: pulse 1.5s infinite;">Hey there 👋, I'm Adnan Hasmi!</span>
     </h1>
   </div>
+<h3>A passionate Business & Data Analyst</h3>
   
   
   
@@ -29,43 +30,36 @@ Here are some ideas to get you started:
   - 👯 I’m looking to collaborate on exciting projects that challenge me and allow me to learn and grow.<br>
   - 🤔 I’m always open to help and guidance from the community, whether it's coding-related or tech discussions.<br>
   - 📫 You can reach me through email at [adnanhashmi323@gmail.com](mailto:adnanhashmi323@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/adnan-hashmi-/).<br>
-  
-  
-  ## ⚡ Technologies
-  
-  ### Languages:
-  
-  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)&nbsp;&nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)&nbsp;&nbsp;
-  ![PHP](https://img.shields.io/badge/-PHP-Gray?style=flat-square&logo=php)
 
-  
-  
-  ### Libraries & Framework :
-  
-  <a href="#"><img alt="TensorFLow" src ="https://avatars.githubusercontent.com/u/15658638?s=280&v=4" height="35" width="100"></a>
-  <a href="#"><img alt="Matplotlib" src ="https://image.pngaaa.com/242/4152242-middle.png" height="35" width="100"></a>
-  <a href="#"><img alt="Seaborn" src ="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" height="35" width="100"></a>
-  <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" height="35" width="100"></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adnano1&label=Profile%20views&color=0e75b6&style=flat" alt="adnano1" /> </p>
 
+- 🌱 I’m currently learning **Data science and Analytics**
+
+- 💬 Ask me about **Data science**
+
+- 📫 How to reach me **adnanhashmi323@gmail.com**
+
+
+  <h1>Github Stats:</h1>
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adnano1&theme=dark&show_icons=true&hide_border=false&count_private=true" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnano1&theme=dark&show_icons=true&hide_border=false&layout=compact" align = "center"/>
+</p>
   
-  ### Connect with me🌐
-  <div align="left">
-    <a href="https://www.instagram.com/adnan__ii/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-    </a>
-    <a href="adnanhashmi323@gmail.com" target="_blank">
-    <a href="https://www.linkedin.com/in/adnan-hashmi-/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-    </a>
-  </div>
   
-  
-  <br>
-  
-    
-  Feel free to connect with me and explore my work. Whether it's unraveling data patterns or crafting web solutions, I'm always up for the challenge. Happy coding! 🚀
-  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/adnan-hashmi-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adnan-hashmi-/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/adnanhashmio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/adnanhashmio" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/adnan__ii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/adnan__ii/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucanwtgvx6wf6wmqmgjy3t9g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucanwtgvx6wf6wmqmgjy3t9g" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://couchdb.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+Feel free to connect with me and explore my work. Whether it's unraveling data patterns or crafting web solutions, I'm always up for the challenge. Happy coding! 🚀
+
   
   
   

@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <div style="text-align: center;">
     <h1 style="font-size: 36px; font-weight: bold;">
-      <span style="display: inline-block; animation: pulse 1.5s infinite;">Hey there 👋, I'm Adnan Hasmi!</span>
+      <span style="display: inline-block; animation: pulse 1.5s infinite;">Hey there 👋, I'm Adnan Hashmi!</span>
     </h1>
   </div>
 <h3>A passionate Business & Data Analyst</h3>

@@ -11,7 +11,6 @@ AI/ML Engineer
 *   ⚡  Exploring Power BI for data visualization, enhancing my skills in business analysis, and gaining insights into effective business strategies.   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnano1&label=Profile%20views&color=0e75b6&style=flat" alt="adnano1" /> </p>
 
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -21,10 +20,6 @@ AI/ML Engineer
 </a>
 </p>
  <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Hello%20 I%27m%20%5BSanskar%20Sahu%20%7C%7C%20DSmark%5D;A+Programmer;Web+Developer+%26%26%20+Web+Designer;Gamer%20%26%26%20Developer;DS%20|%20Algorithms%20|%20OOP%20;&center=true&width=500&height=50">
-</p>
-
-
 
 ## **Tech Toolbox🧰**<br>
 <p align="left">
@@ -55,3 +50,5 @@ AI/ML Engineer
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/tanyagupta0201)

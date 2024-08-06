@@ -1,7 +1,14 @@
 Hi, My name is Adnan Hashmi  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ====================================================================================================================================
-<h3 align="center">A passionate AI/ML Engineer</h3>
 
+AI/ML Engineer
+--------------
+
+*   🌍  I'm based in Bengaluru
+*   ✉️  You can contact me at [adnanhashmi323@gmail.com](mailto:adnanhashmi323@gmail.com)
+*   🚀  I'm currently working on AI/Ml/DL/NLP/Computer vision
+*   🧠  I'm learning ML, DL, OpenCV, and Generative AI to enhance my expertise and stay updated with the latest advancements in the field.
+*   ⚡  Exploring Power BI for data visualization, enhancing my skills in business analysis, and gaining insights into effective business strategies.   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnano1&label=Profile%20views&color=0e75b6&style=flat" alt="adnano1" /> </p>
 
 
@@ -17,22 +24,10 @@ Hi, My name is Adnan Hashmi  ![](https://user-images.githubusercontent.com/18350
 <img src="https://readme-typing-svg.herokuapp.com?lines=Hello%20 I%27m%20%5BSanskar%20Sahu%20%7C%7C%20DSmark%5D;A+Programmer;Web+Developer+%26%26%20+Web+Designer;Gamer%20%26%26%20Developer;DS%20|%20Algorithms%20|%20OOP%20;&center=true&width=500&height=50">
 </p>
 
-AI/ML Engineer
---------------
-
-I'm a recent Master's graduate in Data Science, currently working as an AI/ML Engineer . My work focuses on developing machine learning and deep learning models, with projects including sign language detection and automatic number plate recognition. I am passionate about statistical analysis, data manipulation, and staying updated with the latest advancements in AI/ML.
-
-*   🌍  I'm based in Bengaluru
-*   ✉️  You can contact me at [adnanhashmi323@gmail.com](mailto:adnanhashmi323@gmail.com)
-*   🚀  I'm currently working on [Developing machine learning and deep learning models for projects such as sign language detection and automatic number plate recognition. Leveraging tools like OpenCV and Python to enhance AI capabilities.](http://Developing machine learning and deep learning models for projects such as sign language detection and automatic number plate recognition. Leveraging tools like OpenCV and Python to enhance AI capabilities.)
-*   🧠  I'm learning ML, DL, OpenCV, and Generative AI to enhance my expertise and stay updated with the latest advancements in the field.
-*   ⚡  Exploring Power BI for data visualization, enhancing my skills in business analysis, and gaining insights into effective business strategies.
 
 
 ## **Tech Toolbox🧰**<br>
 <p align="left">
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/> </a>
-<a href="https://isocpp.org/std/the-standard" target="_blank"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python"/> </a>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="Pycharm"/></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>

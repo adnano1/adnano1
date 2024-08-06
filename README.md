@@ -1,5 +1,25 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adnan Hashmi
 ====================================================================================================================================
+<h3 align="center">A passionate AI/ML Engineer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adnano1&label=Profile%20views&color=0e75b6&style=flat" alt="adnano1" /> </p>
+
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adnano1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adnano1&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
+
+
+<
+
+
 
 AI/ML Engineer
 --------------
